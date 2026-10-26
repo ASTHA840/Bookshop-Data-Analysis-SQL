@@ -20,7 +20,7 @@ This project includes basic and advanced SQL queries to retrieve information, pe
 - Analyze sales by genre and author.
 - Calculate remaining stock after accounting for ordered quantities.
 
-## 🛠️ Tools and Technologies
+## 🛠️ Technologies used
 
 - **Microsoft SQL Server** — Database management and query execution.
 - **SQL (T-SQL)** — Data retrieval, filtering, aggregation, and analysis.
